@@ -1,0 +1,1 @@
+# PyQt_image_manipulation_app
