@@ -363,7 +363,7 @@ class mywindow(QMainWindow):
             self.image.set_filename(filename[0])
             #print("image type :",type(self.image.get_filename()))
             pixmap = QPixmap(self.image.get_filename()).scaled(self.ui.label.size(), aspectRatioMode=Qt.AspectRatioMode.KeepAspectRatioByExpanding)
-            print("pixmap type:",type(pixmap))
+            #print("pixmap type:",type(pixmap))
             self.make_buttons_enb()      
             self.ui.label.setPixmap(pixmap)
         except:
