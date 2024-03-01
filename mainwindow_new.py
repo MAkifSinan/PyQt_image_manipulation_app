@@ -139,6 +139,7 @@ class Ui_MainWindow(object):
         self.file.setObjectName("file")
         self.horizontalLayout.addWidget(self.file)
         self.export_as = QtWidgets.QPushButton(self.groupBox)
+        
         self.export_as.setText("")
         icon7 = QtGui.QIcon()
         icon7.addPixmap(QtGui.QPixmap(".\\qt_lab_iconlar/export.png"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
