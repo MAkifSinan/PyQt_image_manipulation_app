@@ -4,3 +4,6 @@
 
 *******************************************
 &nbsp;&nbsp;This project has been prepared within the scope of the Object-Oriented Programming 2 (OOP2) course at Eskişehir Osmangazi University. An interface has been designed to perform certain operations on an image within the project. The scikit-image library has been utilized in the backend codes. Since WinPython distribution is used, the scikit-image library included in the distribution has been imported, and the necessary functions for the image class have been included in the code.
+*******************************************
+A Demo For Application 
+![image](https://github.com/MAkifSinan/PyQt_image_manipulation_app/assets/97695942/44bb6ea6-bba0-4577-ae60-c296201e808b)
